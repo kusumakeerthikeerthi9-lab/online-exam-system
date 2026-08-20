@@ -1,0 +1,32 @@
+Start
+   │
+   ▼
+Login/Register
+   │
+   ▼
+Student/Admin
+   │
+   ├── Student
+   │      │
+   │      ▼
+   │   Start Exam
+   │      │
+   │      ▼
+   │ Answer Questions
+   │      │
+   │      ▼
+   │ Submit Exam
+   │      │
+   │      ▼
+   │ View Result
+   │
+   └── Admin
+          │
+          ▼
+   Manage Questions
+          │
+          ▼
+   View Results
+          │
+          ▼
+         Exit

@@ -1,0 +1,32 @@
+Online-Exam-System/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── src/
+│   ├── Main.java
+│   ├── User.java
+│   ├── Student.java
+│   ├── Admin.java
+│   ├── Login.java
+│   ├── Question.java
+│   ├── QuestionBank.java
+│   ├── Exam.java
+│   ├── Result.java
+│   ├── FileManager.java
+│   └── Utils.java
+│
+├── data/
+│   ├── users.txt
+│   ├── questions.txt
+│   └── results.txt
+│
+├── screenshots/
+│   ├── login.png
+│   ├── exam.png
+│   ├── result.png
+│   └── admin.png
+│
+└── docs/
+    └── Project_Report.pdf

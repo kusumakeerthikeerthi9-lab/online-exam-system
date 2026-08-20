@@ -1,0 +1,41 @@
+=========== ONLINE EXAM SYSTEM ===========
+
+1. Register
+2. Login
+3. Exit
+
+Enter Choice: 2
+
+Login Successful
+
+Exam Started...
+
+Question 1
+Java is?
+
+A. Language
+B. Database
+C. Operating System
+D. Browser
+
+Answer: A
+
+Question 2
+Which keyword creates object?
+
+A. new
+B. class
+C. void
+D. main
+
+Answer: A
+
+Exam Submitted
+
+==============================
+
+Score : 2 / 2
+
+Percentage : 100%
+
+Congratulations!
